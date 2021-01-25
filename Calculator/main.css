@@ -65,4 +65,7 @@ body {
     color: white;
     font-size: 2rem;
   }
+  body {
+  background: linear-gradient(to right, #20bdff, #a5fecb);
+}
 }
